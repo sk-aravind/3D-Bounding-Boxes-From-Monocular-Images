@@ -1,0 +1,4 @@
+Epoch with the lowest loss : Epoch 10   Loss: 0.02005681023001671
+Iteration with the lowest orientation loss : Iteration 7589   Loss: 0.001204371452331543
+Iteration with the lowest dimension loss : Iteration 27829   Loss: 0.009980689734220505
+Iteration with the lowest theta loss : Iteration 27696   Loss: 0.0018167138332501054
