@@ -2,6 +2,7 @@
 
 ![3D Bounding Box Prediction From Monocular Image](cover_img.jpg)
 
+### __ Utilising a two stage multi-modal loss model along with rigid body transformations to regress 3D bounding boxes, orientations and coordinates in world space coordinates __
 
 ### File Structure
 
