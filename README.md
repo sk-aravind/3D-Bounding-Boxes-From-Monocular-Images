@@ -1,5 +1,7 @@
 # Predicting 3D Bounding Boxes for Non-temporal Monocular Images
 
+![3D Bounding Box Prediction From Monocular Image](cover_img.jpg)
+
 
 ### File Structure
 
